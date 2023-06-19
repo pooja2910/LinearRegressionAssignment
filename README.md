@@ -1,7 +1,7 @@
 # LinearRegressionAssignment
 
 
-> Building a Linear Regression model to predict demand of one of the Bike Rental comapny based on the available features.
+> Building a Linear Regression model to predict demand of one of the Bike Rental company based on the available features.
 
 
 ## Table of Contents
